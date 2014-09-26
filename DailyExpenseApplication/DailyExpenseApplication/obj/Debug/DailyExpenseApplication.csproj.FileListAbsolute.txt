@@ -1,0 +1,10 @@
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.exe.config
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.exe
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\bin\Debug\DailyExpenseApplication.pdb
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\bin\Debug\CSVLib.dll
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.DailyExpenseUI.resources
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.Properties.Resources.resources
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.csproj.GenerateResource.Cache
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.exe
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.pdb
+G:\SADDAM HOSSAIN RANA\DailyExpenseApplication\DailyExpenseApplication\obj\Debug\DailyExpenseApplication.csprojResolveAssemblyReference.cache
